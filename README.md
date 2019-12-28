@@ -6,10 +6,15 @@ and packaged by [ng-packagr](https://github.com/dherges/ng-packagr).
 
 [![npm package](https://img.shields.io/npm/v/ngx-hopscotch.svg?style=flat-square)](https://www.npmjs.com/package/ngx-hopscotch)
 
+## Changes made in this fork
+This fork updates the repository to work with Angular 8 projects. (At least my project works with it. Your milage may vary.)
+
+This derivitive work rests on the shoulders of LoominusAI and sachinshai who really did all the hard work. I just coerced it to work with a newer framework.
+
 ## Installation
 
 ```
-npm install ngx-hopscotch --save
+npm install jhbsa/ngx-hopscotch --save
 ```
 
 ## Usage
