@@ -19,7 +19,8 @@
       "ngx-hopscotch": [
         "libs/ngx-hopscotch"
       ]
-    }
+    },
+    "module": "es2015"
   },
   "exclude": [
     "node_modules",
